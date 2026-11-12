@@ -1,0 +1,4 @@
+bank
+*.o
+accounts.txt
+.DS_Store
